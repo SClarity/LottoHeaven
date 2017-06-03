@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3E2AA287-10D7-4055-A9BE-39CA4A9E31B7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>lottoticketvip</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>56B3B94E-089C-41C3-9813-F841E9ECE238</key>
+		<string>http://appzoot.com/svn/repos/lottoticketvip</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>lottoticketvip.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>56B3B94E-089C-41C3-9813-F841E9ECE238</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>56B3B94E-089C-41C3-9813-F841E9ECE238</key>
+		<string>http://appzoot.com/svn/repos</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://appzoot.com/svn/repos/lottoticketvip/lottoticketvip.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>56B3B94E-089C-41C3-9813-F841E9ECE238</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>56B3B94E-089C-41C3-9813-F841E9ECE238</string>
+			<key>IDESourceControlWCCName</key>
+			<string>lottoticketvip</string>
+		</dict>
+	</array>
+</dict>
+</plist>
